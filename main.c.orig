@@ -5,7 +5,7 @@ Initial Function()
   //Sample Code
 }
 
-
+<<<<<<< HEAD
 feature1()
 {
 
@@ -13,12 +13,12 @@ feature1()
 
 }
 
-
+=======
 Initial Security()
 {
  //Sample Code
 }
-
+>>>>>>> master
 
 
 Security Patch()
