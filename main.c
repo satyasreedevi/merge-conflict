@@ -5,6 +5,10 @@ Initial Function()
   //Sample Code
 }
 
+feaature2()
+{
+  //feature2 added
+}
 
 feature1()
 {
