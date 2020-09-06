@@ -5,20 +5,27 @@ Initial Function()
   //Sample Code
 }
 
+feaature2()
+{
+  //feature2 added
+}
 <<<<<<< HEAD
+
 feature1()
 {
 
   //feature1 added
+=======
+>>>>>>> feature2
 
 }
 
-=======
+
 Initial Security()
 {
  //Sample Code
 }
->>>>>>> master
+
 
 
 Security Patch()
